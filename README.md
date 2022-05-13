@@ -2,7 +2,7 @@
 
 It was my first project using the Laravel framework and all its basic features. Construction of routes, views, architecture, Eloquent and database. The design part will be left for a future refactoring of this project when the studies of this wonderful framework advance.
 
-<p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
+<p align="center"><img src="hhttps://github.com/fernandogiroto/gestaoLaravel/blob/main/gestaoLaravel.png?raw=true" width="400"></p>
 
 
 ## About Laravel
